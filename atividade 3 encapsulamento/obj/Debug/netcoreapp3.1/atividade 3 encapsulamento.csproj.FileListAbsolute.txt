@@ -1,0 +1,13 @@
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\bin\Debug\netcoreapp3.1\atividade 3 encapsulamento.exe
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\bin\Debug\netcoreapp3.1\atividade 3 encapsulamento.deps.json
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\bin\Debug\netcoreapp3.1\atividade 3 encapsulamento.runtimeconfig.json
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\bin\Debug\netcoreapp3.1\atividade 3 encapsulamento.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\bin\Debug\netcoreapp3.1\atividade 3 encapsulamento.dll
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\bin\Debug\netcoreapp3.1\atividade 3 encapsulamento.pdb
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\obj\Debug\netcoreapp3.1\atividade 3 encapsulamento.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\obj\Debug\netcoreapp3.1\atividade 3 encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\obj\Debug\netcoreapp3.1\atividade 3 encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\obj\Debug\netcoreapp3.1\atividade 3 encapsulamento.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\obj\Debug\netcoreapp3.1\atividade 3 encapsulamento.dll
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\obj\Debug\netcoreapp3.1\atividade 3 encapsulamento.pdb
+C:\Users\Marcos\source\repos\atividade 3 encapsulamento\atividade 3 encapsulamento\obj\Debug\netcoreapp3.1\atividade 3 encapsulamento.genruntimeconfig.cache
